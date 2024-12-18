@@ -1,0 +1,26 @@
+body 
+{
+ background-color: aqua;   
+}
+.water{
+    font-size: 60px;
+    color: aqua;
+    float: left;
+}
+.home{
+    font-size: 80px;
+    color: #ffc107;
+    float: right;
+    margin-top: -20px;
+}
+#input{
+    border: none;
+    width: 100%;
+    cursor: pointer;
+}
+img{
+    width: 70px;
+    position: absolute;
+    left: 26%;
+    transition: all 10s;
+}
